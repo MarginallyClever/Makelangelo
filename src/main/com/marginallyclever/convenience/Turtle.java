@@ -18,7 +18,7 @@ public class Turtle implements Cloneable {
 		TOOL_CHANGE;
 	}
 	
-	public class Movement {
+	public static class Movement {
 		public MoveType type;
 		public double x,y;  // destination
 		
