@@ -327,7 +327,7 @@ If you like this project, please support us by buying Marginally Clever products
 	
     <!-- https://mvnrepository.com/artifact/net.sourceforge/kabeja -->
 	<dependency>
-	    <groupId>net.sourceforge</groupId>
+	    <groupId>org.kabeja</groupId>
 	    <artifactId>kabeja</artifactId>
 	    <version>0.4</version>
 	</dependency>
